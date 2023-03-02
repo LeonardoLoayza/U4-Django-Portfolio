@@ -1,5 +1,4 @@
 # U4-Django-Portfolio
-### Este es un portfolio usando Django. Los forms los hice con ayuda DjangoAdmin y con la ayuda de Dios. 
 
 ## Pasos:
 - Crear entorno virtual
